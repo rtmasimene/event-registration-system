@@ -1,0 +1,29 @@
+<registrationlist>
+ <registration type="Registration">
+  <attendee>
+   <name>Uzumaki Naruto</name>
+   <affiliation>Konoha</affiliation>
+   <email>hokage@konoha.co</email>
+  </attendee>
+  <bookingdate>2024-07-18</bookingdate>
+  <registrationfee>100</registrationfee>
+ </registration>
+ <registration type="GuestRegistration">
+  <attendee>
+   <name>Uchiha Sasuke</name>
+   <affiliation>Konoha</affiliation>
+   <email>sasuke@konoha.co</email>
+  </attendee>
+  <bookingdate>2024-07-18</bookingdate>
+  <registrationfee>10</registrationfee>
+ </registration>
+ <registration type="StudentRegistration">
+  <attendee>
+   <name>Konohamaru</name>
+   <affiliation>Konoha</affiliation>
+   <email>kmaru@konoha.co</email>
+  </attendee>
+  <bookingdate>2024-07-18</bookingdate>
+  <registrationfee>50</registrationfee>
+ </registration>
+</registrationlist>
